@@ -91,18 +91,6 @@ Here's a quick guide on how to use the UVCE SGPA Calculator:
 4. Result: "Your SGPA is 8.75".
 
 
-### Main Interface
-
-![Main Interface](screenshots/main_interface.png)
-
-### P Cycle Example
-
-![P Cycle Example](screenshots/p_cycle_example.png)
-
-### SGPA Result
-
-![SGPA Result](screenshots/sgpa_result.png)
-
 ## Grading System
 
 The application calculates points based on the following grading system:
