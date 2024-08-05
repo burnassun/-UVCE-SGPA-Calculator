@@ -1,7 +1,3 @@
-Here's a detailed README file for your SGPA Calculator project that you can use for your GitHub repository. I've structured it with sections that are commonly included in GitHub READMEs to make it professional and informative.
-
----
-
 # UVCE SGPA Calculator
 
 A user-friendly SGPA calculator for UVCE students, developed using Python and Tkinter. The application allows students to input their internal and approximate semester marks for subjects in either the **P Cycle** or **C Cycle** and calculates the Semester Grade Point Average (SGPA) based on weighted points.
